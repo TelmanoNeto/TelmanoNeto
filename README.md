@@ -9,7 +9,7 @@
 💻 Current Position: **Researcher and Developer** (PD&I Student) at [**VIRTUS**](https://www.virtus.ufcg.edu.br/) and Computer Science student at [**UFCG**](https://portal.ufcg.edu.br).<br>
 ☕ My favorite programming languages are Python and Java! <br>
 
-**The right moment never comes; the courage to start is what turns possibilities into reality.**
+**The right moment never comes. The courage to start is what turns possibilities into reality.**
 
 ## 👨‍💻 Hard Skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python   
