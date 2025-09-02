@@ -1,14 +1,18 @@
 # Telmano Neto
 
 ## 👨‍💻 Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> Spring  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PostgreSQL  
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 
 ## 📘 Currently learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
+- Machine Learning 🤖
 
 ## 🌐 Contato
 
@@ -19,6 +23,6 @@
 ## 📊 My Status
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedro-nascimento-silva&show_icons=true&theme=radical" alt="Pedro's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nascimento-silva&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=telmano-neto&show_icons=true&theme=radical" alt="Telmano's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmano-neto&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
 </p>
