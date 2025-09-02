@@ -1,14 +1,12 @@
 # Telmano Neto
 
 ## 👨‍💻 Skills:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="24"/> Spring 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> PSQL 
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> Spring   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PSQL 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
@@ -23,7 +21,12 @@
 
 ## 📊 My Status
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=telmano-neto&show_icons=true&theme=radical" alt="Telmano's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmano-neto&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=telmanoneto&show_icons=true&theme=radical" alt="Stats" />
 </p>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmanoneto&layout=compact&langs_count=6&theme=radical" alt="Linguagens" />
+</p>
+
+
