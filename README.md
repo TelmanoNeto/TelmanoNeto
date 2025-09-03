@@ -56,6 +56,9 @@
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=telmanoneto&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+<p align ="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmanoneto&layout=compact&langs_count=6&theme=radical" alt="Linguagens" />
 </p>
 
