@@ -27,7 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PSQL   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="25"/> Prolog   
 
 ---
 
@@ -42,8 +41,8 @@
 ---
 
 ## 🚀 Featured Projects
-- 🎮 [**2048 Game in Prolog**](#) – Game with GUI using **SWI-Prolog** and **XPCE**  
 - 🎮 [**2048 Game in Haskell**](#) – Functional implementation of **2048** in **Haskell**  
+- 🎮 [**2048 Game in Prolog**](#) – Game with GUI using **SWI-Prolog** and **XPCE**  
 - 🏍 [**Motorcycle Rental System**](#) – Multi-module system (**Finance, Maintenance, Reports**) built with **React + TypeScript**  
 
 ---
