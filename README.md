@@ -1,5 +1,7 @@
 # Telmano Neto – 🚀 Researcher, Developer & CS Student
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="500" align="right">
+
 ## 😄 About me
 
 - Passionate about technology and its potential to transform lives. <br>
@@ -14,16 +16,18 @@
 ---
 
 ## 👨‍💻 Hard Skills
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> Spring   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> TypeScript   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PSQL   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> Spring   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/> TypeScript   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PSQL   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="25"/> Prolog   
 
 ---
 
@@ -33,13 +37,14 @@
 ---
 
 ## 📘 Currently learning
-🤖 Machine Learning · ⚛️ React · 🟦 TypeScript
+🤖 Machine Learning · 🟨 JavaScript · 🟦 TypeScript · ⚛️ React  
 
 ---
 
 ## 🚀 Featured Projects
 - 🎮 [**2048 Game in Prolog**](#) – Game with GUI using **SWI-Prolog** and **XPCE**  
-- 🏍 [**Motorcycle Rental System**](#) – Multi-module system (**Finance, Maintenance, Reports**) modern responsive website built with **React + TypeScript**  
+- 🎮 [**2048 Game in Haskell**](#) – Functional implementation of **2048** in **Haskell**  
+- 🏍 [**Motorcycle Rental System**](#) – Multi-module system (**Finance, Maintenance, Reports**) built with **React + TypeScript**  
 
 ---
 
@@ -58,7 +63,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=telmanoneto&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
-<p align ="left">
+<p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmanoneto&layout=compact&langs_count=6&theme=radical" alt="Linguagens" />
 </p>
 
