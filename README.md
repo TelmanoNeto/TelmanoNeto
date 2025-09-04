@@ -7,7 +7,7 @@
 - In my free time, I enjoy playing guitar, listening to podcasts, and especially rock music. <br>
 
 💻 Current Position: **Researcher and Developer (PD&I Student)** at [**VIRTUS**](https://www.virtus.ufcg.edu.br/) <br>
-🎓 Computer Science student at [**UFCG**](https://portal.ufcg.edu.br) <br>
+🎓 Computer Science student at [**UFCG**](https://computacao.ufcg.edu.br) <br>
 
 ✨ *“The right moment never comes. The courage to start is what turns possibilities into reality.”*
 
