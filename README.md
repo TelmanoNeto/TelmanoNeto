@@ -1,7 +1,5 @@
 # Telmano Neto – 🚀 Researcher, Developer & CS Student
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="500" align="right">
-
 ## 😄 About me
 
 - Passionate about technology and its potential to transform lives. <br>
@@ -16,6 +14,9 @@
 ---
 
 ## 👨‍💻 Hard Skills
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="500" align="right">
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> Spring   
@@ -28,7 +29,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux   
 
----
+<br>
+<br>
+
+--- 
 
 ## 📌 Soft Skills
 **Leadership** · **Teamwork** · **Adaptability** · **Communication** · **Problem-Solving**
