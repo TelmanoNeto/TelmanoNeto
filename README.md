@@ -67,7 +67,7 @@
 </p>
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmanoneto&layout=compact&langs_count=6&theme=radical&cache_seconds=1800" alt="Linguagens" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmanoneto&layout=compact&langs_count=6&theme=radical&cache_seconds=100" alt="Linguagens" />
 </p>
 
 <p align="left">
