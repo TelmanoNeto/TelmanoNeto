@@ -48,7 +48,7 @@
 - 🎮 [**2048 Game in Haskell**](https://github.com/arthur-ccc/2048/tree/main/haskell2048) – Functional implementation of **2048** in **Haskell**  
 - 🎮 [**2048 Game in Prolog**](https://github.com/arthur-ccc/2048/tree/main/prolog2048) – Game with GUI using **SWI-Prolog** and **XPCE**  
 - 🏍 [**Motorcycle Rental System**](https://github.com/Engenharia-de-Software-G3/SGLM) – Multi-module system (**Finance, Maintenance, Reports**) built with **React + TypeScript**  
-
+- 🎭 [**Cultura 360**](https://cultura360.app.br/) – Platform for discovering cultural events and experiences
 ---
 
 ## 🌐 Contact
